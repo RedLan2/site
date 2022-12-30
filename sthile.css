@@ -1,0 +1,23 @@
+p{
+     text-align: center
+}
+
+body{
+    background: aquamarine;
+}
+#levi{
+   
+    text-align: center;
+    max-width: 200px;
+    max-height: 2100px;
+}
+
+em strong{
+    background-color: rgb(232, 6, 240);
+}
+p#historia{
+    text-align: left;
+}
+.item{
+    font-style: italic;
+}
